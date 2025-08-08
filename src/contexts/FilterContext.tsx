@@ -3,7 +3,7 @@ import React, { createContext, useState } from "react";
 
 // current value of filter
 
-export type Filter = 'all' | 'active ' | 'completed';
+export type Filter = 'all' | 'active' | 'completed';
 
 //function to update the filter
 

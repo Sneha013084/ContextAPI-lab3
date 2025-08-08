@@ -65,4 +65,17 @@ button:focus-visible {
   button {
     background-color: #f9f9f9;
   }
+}.light-theme {
+  background-color: white;
+  color: black;
+  min-height: 100vh;
+  padding: 1rem;
 }
+
+.dark-theme {
+  background-color: #121212;
+  color: white;
+  min-height: 100vh;
+  padding: 1rem;
+}
+
